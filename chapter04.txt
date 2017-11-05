@@ -1,0 +1,1 @@
+This is the last and final chapter of the exercise with Git. Now I see the value of this.
